@@ -12,6 +12,8 @@
         2) o ValorAtual do elemento sendo interado, item por item. --> Item OBRIGATORIO
         3) o index do elemento atual. --> OPCIONAL  --> Posicao atual
         4) o array Completo original. --> OPCIONAL   
+
+        ELE nao cria um array novo, apenas modifica-o
 */
 
 const list = [5, 4 ,8 , 1, 2, 6, 58, 95]
